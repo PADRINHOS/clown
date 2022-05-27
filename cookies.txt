@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pgo-site.xyz	TRUE	/insertpvp/public	FALSE	1999999999	flarum_session	Iqp7OiYBv5tx00LnyxPqJMgKYiRVBIsQo6WtGS60
+pgo-site.xyz	TRUE	/	FALSE	1999999999	SameSite	Lax
+
